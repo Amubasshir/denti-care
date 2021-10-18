@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Root Canal",
+    "price": "199",
+    "description": "We provice best root canal in the city. We provide it with the most convinniance way which is absulute best for you",
+    "img": "https://i.ibb.co/7XSRSyW/services1.png"
+  },
+  {
+    "id": 2,
+    "name": "Teeth Whitening",
+    "price": "299",
+    "description": "We provice best teeth whitening in the city. We provide it with the most convinniance way which is absulute best for you",
+    "img": "https://i.ibb.co/WsVH8VJ/services2.png"
+  },
+  {
+    "id": 3,
+    "name": "Teeth Straight",
+    "price": "399",
+    "description": "Right straight teeth is very important for human being.We provide this in very cheap price with great service",
+    "img": "https://i.ibb.co/rxCXJN0/services3.png"
+  },
+  {
+    "id": 4,
+    "name": "Whole Mouth Care",
+    "price": "499",
+    "description": "We provice best Mouth Care in the city. We provide it with the most convinniance way which is absulute best for you",
+    "img": "https://i.ibb.co/VWq6ZsQ/services4.png"
+  },
+  {
+    "id": 5,
+    "name": "Root Scalling",
+    "price": "599",
+    "description": "We provice best root scalling in the city. We provide it with the most convinniance way which is absulute best for you",
+    "img": "https://i.ibb.co/LYD7q2X/services5.png"
+  },
+  {
+    "id": 6,
+    "name": "Complete Teeth Care",
+    "price": "699",
+    "description": "We provice best complete teeth care in the city. We provide it with the most convinniance way which is absulute best for you",
+    "img": "https://i.ibb.co/7W2S0pT/services6.png"
+  }
+]
