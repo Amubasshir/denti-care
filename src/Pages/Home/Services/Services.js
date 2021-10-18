@@ -22,11 +22,3 @@ const Services = () => {
 };
 
 export default Services;
-
-// https://ibb.co/wRdwd6W
-// https://ibb.co/d7mfCmY
-// https://ibb.co/8rWQVts
-// https://ibb.co/vxj9GSQ
-// https://ibb.co/pb6Fs9B
-// https://ibb.co/58B1Jjz
-// https://ibb.co/DC7kyZM
