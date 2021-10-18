@@ -49,7 +49,7 @@ const doctors = [
 const Doctors = () => {
   return (
     <div className="container">
-      <h2 className="text-primary">Our Doctors</h2>
+      <h2 className="text-primary mt-5">Our Doctors</h2>
       <div className="row">
         {doctors.map((doctor) => (
           <Doctor key={doctor.id} doctor={doctor}></Doctor>
