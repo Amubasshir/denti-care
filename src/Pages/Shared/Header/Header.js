@@ -3,7 +3,7 @@ import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
 import useAuth from '../../../hooks/useAuth';
-import logo from '../../../images/logo.png';
+import logo from '../../../images/logo-final.png';
 
 const Header = () => {
   const { user, logOut } = useAuth();
