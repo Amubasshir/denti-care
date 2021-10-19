@@ -34,6 +34,9 @@ const Header = () => {
             <Nav.Link as={HashLink} to="/home#doctors">
               Doctors
             </Nav.Link>
+            <Nav.Link as={HashLink} to="/home#contact">
+              Contact
+            </Nav.Link>
             {user?.email ? (
               <Button onClick={logOut} variant="secondary">
                 LogOut
