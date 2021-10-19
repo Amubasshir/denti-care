@@ -36,7 +36,7 @@ const Login = () => {
       <h2>Please Login</h2>
       <button
         onClick={signInUsingGoogle}
-        className="btn btn-dark"
+        className="btn btn-primary"
         animation="glow"
       >
         Google Sign In
@@ -111,7 +111,7 @@ const Login = () => {
         <button
           type="button"
           onClick={handleResetPassword}
-          className="btn btn-secondary btn-sm"
+          className="btn btn-danger btn-sm"
         >
           Reset Password
         </button>
